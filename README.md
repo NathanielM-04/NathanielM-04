@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanielM-04&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielM-04&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaniel-mamucod-0377ab30b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
