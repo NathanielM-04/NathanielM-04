@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td>
-  <b><a href="https://github.com/NathanielM-04/react-dev-portfolio">React Dev Portfolio</a></b><br>
+  <b><a href="https://react-dev-portfolio-eight.vercel.app/">React Dev Portfolio</a></b><br>
   Modern, responsive portfolio website built with React & TailwindCSS. Showcases skills, projects, and contact form integration.
 </td>
 </tr>
